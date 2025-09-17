@@ -97,10 +97,22 @@ main h1, main h2 {line-height: normal;}
 nav .btn { padding-block: 0.6rem;}
 
 
+input[type="radio"] {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+
+  border: 1px solid lightgray;
+  border-radius: 50%;
+
+  background-color: white;
+  cursor: pointer;
+}
 
 /* Input + Label */
-input {
-  accent-color: var(--blue-btn);
+input[type="radio"]:checked {
+  border: 1px solid var(--blue-btn);
+  background-color: var(--blue-btn);
 }
 
 
