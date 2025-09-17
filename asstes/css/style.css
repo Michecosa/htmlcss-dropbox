@@ -74,7 +74,12 @@ img { width: 100%;}
 .top-area-image img { width:70%;}
 
 /* Header */ 
-header { padding: 1rem; background-color: white;}
+header { 
+  padding: 1rem; 
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.164);
+}
+
 header nav { min-height: 3rem;}
 
 
