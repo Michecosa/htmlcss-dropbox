@@ -61,6 +61,15 @@ h1 {
 }
 
 
+/* spam button */
+.btn {
+  background-color: var(--blue-btn);
+  color: white;
+  
+  padding-block: 0.6rem;
+  padding-inline: 1rem;
+}
+
 
 /* Position */
 .below-h1-container {
