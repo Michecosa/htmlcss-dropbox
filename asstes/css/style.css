@@ -126,8 +126,6 @@ main {
 
   padding-block:2rem;
   padding-inline: 1.5rem;
-
-  margin-bottom: 15rem;
 }
 
 .left-d-team-area > * {
@@ -142,6 +140,10 @@ main {
   width: 35%;
 }
 
+
+.left-partner-dropbox {
+  width: 60%;
+}
 
 
 
