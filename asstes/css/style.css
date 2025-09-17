@@ -128,8 +128,9 @@ main {
   padding-inline: 1.5rem;
 }
 
-
-
+.right-d-team-area {
+  width: 35%;
+}
 
 
 
@@ -183,6 +184,11 @@ nav .btn { padding-block: 0.6rem;}
 .main-card .btn {
   text-align: center;
   width:100%;
+}
+
+.right-d-team-area .btn {
+  text-align: center;
+  width: 100%;
 }
 
 
