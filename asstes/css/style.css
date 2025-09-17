@@ -17,11 +17,11 @@
 .justify-content-c {justify-content: center;}
 .align-items-sb {align-items: space-between;}
 .align-items-c {align-items: center;}
-.gap {gap:2rem;}
+.gap {gap:3rem;}
 .flex-wrap {flex-wrap: wrap;}
 
 .container-1 {
-  max-width: 90rem;
+  max-width: 100rem;
   width: 80%;
   margin: 0 auto;
 }
@@ -38,8 +38,8 @@ img { width: 100%;}
 .top-area-image img { width:70%;}
 
 /* Header */ 
-header { padding: 1rem;}
-
+header { padding: 1rem; }
+header nav { min-height: 5rem;}
 
 /* Main */
 .main-top-area { 
@@ -47,23 +47,28 @@ header { padding: 1rem;}
 }
 
 .top-area-text {width: 30%;}
-.top-area-text > div {margin-bottom: 3rem;}
-.top-area-text > div:last-child {margin-bottom: 0.6rem;}
+.top-area-text > div {margin-bottom: 3.5rem;}
+.top-area-text > div:last-child {margin-bottom: 1.5rem;}
 
 
 
 /* Text */
-h1 { 
-  font-size: 5rem; 
-  font-weight: 800;
-  padding-block: 5rem;
+header nav {
+  font-size: 1.4rem;
 }
 
-main * {line-height: 1.6rem;}
+h1 { 
+  font-size: 6.5rem; 
+  font-weight: 800;
+  padding-block: 6rem;
+}
+
+main * {line-height: 1.8rem;}
 main h1 {line-height: normal;}
 
 .top-area-text > div {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  font-weight: 500;
 }
 
 .fa-arrow-down {
@@ -71,14 +76,20 @@ main h1 {line-height: normal;}
 }
 
 
+
+
 /* spam button */
 .btn {
   background-color: var(--blue-btn);
   color: white;
   
-  padding-block: 0.6rem;
+  padding-block: 1rem;
   padding-inline: 1rem;
 }
+
+nav .btn { padding-block: 0.6rem;}
+
+
 
 
 /* Position */
