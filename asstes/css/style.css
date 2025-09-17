@@ -256,7 +256,9 @@ input[type="radio"] {
   margin-right: 0.5rem;
 }
 
-
+input[type="radio"]:hover {
+  cursor: pointer;
+}
 
 
 
