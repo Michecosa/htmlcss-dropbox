@@ -224,6 +224,8 @@ input[type="radio"] {
   display: inline-block;
   padding: 0.7rem;
   border: 1px solid black;
+
+  margin-top: 1rem;
 }
 
 
