@@ -27,7 +27,7 @@
 }
 
 .container-2 {
-  width: 90%;
+  width: 85%;
   margin: 0 auto;
 }
 
@@ -44,6 +44,7 @@ header nav { min-height: 5rem;}
 /* Main */
 .main-top-area { 
   background-color: var(--light-blue);
+  margin-bottom: 12.5rem;
 }
 
 .top-area-text {width: 30%;}
@@ -63,8 +64,14 @@ h1 {
   padding-block: 6rem;
 }
 
+h2 {
+  font-size: 3.2rem; 
+  font-weight: 800;
+  padding-block: 6rem;
+}
+
 main * {line-height: 1.8rem;}
-main h1 {line-height: normal;}
+main h1, main h2 {line-height: normal;}
 
 .top-area-text > div {
   font-size: 1.3rem;
