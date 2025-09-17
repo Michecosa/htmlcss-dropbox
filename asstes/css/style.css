@@ -59,8 +59,9 @@ img { width: 100%;}
 header { padding: 1rem;}
 header nav { min-height: 3rem;}
 
-/* Main */
 
+
+/* Main */
 main {
   margin-bottom:2rem;
 }
@@ -110,7 +111,6 @@ main {
 
 
 /* Text */
-
 h1 { 
   font-size: 5rem; 
   font-weight: 800;
@@ -163,11 +163,16 @@ nav .btn { padding-block: 0.6rem;}
 
 
 /* Input + Label */
-
 input[type="radio"] {
   accent-color: var(--blue-btn);
   margin-right: 0.5rem;
 }
+
+
+
+
+
+
 
 /* Position */
 .below-h1-container {
