@@ -221,6 +221,7 @@ input[type="radio"] {
 /* find-partner */
 
 .find-partner {
+  display: inline-block;
   padding: 0.7rem;
   border: 1px solid black;
 }
