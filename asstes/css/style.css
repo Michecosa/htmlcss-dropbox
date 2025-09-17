@@ -13,6 +13,17 @@
 .gap {gap:2rem;}
 
 
+.container-1 {
+  max-width: 80rem;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container-2 {
+  width: 90%;
+  margin: 0 auto;
+}
+
 /* Header */ 
 
 header {
