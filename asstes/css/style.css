@@ -150,8 +150,11 @@ main {
 .right-partner-dropbox {margin-top:2rem;}
 
 
+/* Operations */
 
-
+.operations-area-container h2 {
+  margin-bottom:2rem;
+}
 
 
 
