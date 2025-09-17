@@ -44,7 +44,7 @@ header { padding: 1rem;}
 
 
 /* Main */
-.top-area-text > div {margin-bottom: 1rem;}
+.top-area-text > * > div {margin-bottom: 1rem;}
 
 
 
