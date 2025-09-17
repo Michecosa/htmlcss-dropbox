@@ -27,7 +27,7 @@
 
 .container-2 {
   max-width:90rem;
-  width: 85%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -135,10 +135,11 @@ main {
 
 
 /* Team area */
+.d-team {width: 100%;}
+
 .d-team-area {
   text-align: center;
   
-  width:100%;
   border:1px solid lightgray;
   border-bottom: 0;
   
@@ -147,7 +148,6 @@ main {
 }
 
 .d-team-bottom-area {
-  width:100%;
   border:1px solid lightgray;
 
   padding-block:2rem;
