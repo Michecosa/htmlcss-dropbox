@@ -51,28 +51,32 @@
 
 /* Images */
 img { width: 100%;}
-.left-nav img { height: 2rem; width: auto; }
+.left-nav img { height: 1.5rem; width: auto; }
 .top-area-image img { width:70%;}
 
 /* Header */ 
-header { padding: 1rem; }
-header nav { min-height: 5rem;}
+header { padding: 1rem;}
+header nav { min-height: 3rem;}
 
 /* Main */
 .main-top-area { 
   background-color: var(--light-blue);
-  margin-bottom: 7rem;
 }
 
 .top-area-text {width: 30%;}
-.top-area-text > div {margin-bottom: 3rem;}
+.top-area-text > div {margin-bottom: 2.5rem;}
 .top-area-text > div:last-child {margin-bottom: 1.3rem;}
+
+
+.main-content-area {
+  margin-top: 6rem;
+}
+
 
 .input-container {
   margin-bottom:2rem;
   margin-top:1rem;
 }
-
 
 .top-card {
   text-align: center;
@@ -87,9 +91,7 @@ header nav { min-height: 5rem;}
 
 
 /* Text */
-header nav {
-  font-size: 1.4rem;
-}
+
 
 h1 { 
   font-size: 5rem; 
