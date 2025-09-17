@@ -98,6 +98,11 @@ nav .btn { padding-block: 0.6rem;}
 
 
 
+/* Input + Label */
+input {
+  accent-color: var(--blue-btn);
+}
+
 
 /* Position */
 .below-h1-container {
