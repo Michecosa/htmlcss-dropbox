@@ -74,7 +74,7 @@ img { width: 100%;}
 .top-area-image img { width:70%;}
 
 /* Header */ 
-header { padding: 1rem;}
+header { padding: 1rem; background-color: white;}
 header nav { min-height: 3rem;}
 
 
@@ -275,6 +275,15 @@ input[type="radio"] {
 
 
 /* Position */
+
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+
 .below-h1-container {
   position: relative;
   background-color: var(--light-blue);
