@@ -42,7 +42,10 @@ header { padding: 1rem;}
 
 
 /* Main */
-.main-top-area { background-color: #b4d0e6;}
+.main-top-area { 
+  background-color: var(--light-blue);
+}
+
 .top-area-text > div {margin-bottom: 1rem;}
 
 
@@ -53,4 +56,18 @@ h1 {
   font-size: 5rem; 
   font-weight: 800;
   padding-block: 5rem;
+}
+
+
+
+/* Position */
+.below-h1-container {
+  position: relative;
+  background-color: var(--light-blue);
+}
+
+.top-area-image {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
