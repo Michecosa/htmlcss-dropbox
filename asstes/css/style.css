@@ -98,6 +98,9 @@ header nav { min-height: 3rem;}
   margin-bottom: 0.8rem;
 }
 
+.main-card .border-small {
+  margin-block: 3.5rem;
+}
 
 
 
@@ -125,10 +128,13 @@ h2 {
   font-size: 4rem;
 }
 
+.top-card, 
+.main-card {
+  font-size:0.8rem;
+}
+
 .price {font-size: 0.8rem;}
-
 .user-timing {font-size: 0.8rem; color: gray;}
-
 .fa-check {color: var(--blue-btn);}
 
 
@@ -145,6 +151,10 @@ h2 {
 
 nav .btn { padding-block: 0.6rem;}
 
+.main-card .btn {
+  text-align: center;
+  width:100%;
+}
 
 
 /* Input + Label */
