@@ -244,6 +244,11 @@ h2 {
   padding-inline: 1rem;
 }
 
+.btn:hover,
+.find-partner:hover {
+  cursor:pointer;
+}
+
 nav .btn { padding-block: 0.6rem;}
 
 .main-card .btn {
