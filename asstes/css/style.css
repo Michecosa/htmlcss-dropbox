@@ -35,7 +35,7 @@
 /* Images */
 img { width: 100%;}
 .left-nav img { height: 2rem; width: auto; }
-
+.top-area-image img { width:60%;}
 
 /* Header */ 
 header { padding: 1rem;}
@@ -67,7 +67,8 @@ h1 {
 }
 
 .top-area-image {
+  text-align: right;
+
   position: absolute;
   top: 0;
-  right: 0;
 }
