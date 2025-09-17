@@ -47,6 +47,7 @@ header { padding: 1rem;}
   background-color: var(--light-blue);
 }
 
+.top-area-text {width: 38%;}
 .top-area-text > div {margin-bottom: 1rem;}
 
 
