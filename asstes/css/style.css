@@ -61,7 +61,10 @@ footer .border-small {width:10%;}
 .no-text-decoration {text-decoration: none; color:inherit}
 
 
-
+/* anchor tag */
+a {
+  color:var(--blue-btn)
+}
 
 /* Images */
 img { width: 100%;}
