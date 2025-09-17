@@ -32,7 +32,7 @@
 }
 
 .col-3 {
-  width:calc((100% /3) - 3rem);
+  width:calc((100% /3) - 1rem);
   height: auto;
 }
 
