@@ -181,19 +181,15 @@ main {
 
 footer {
   background-color: black;
-  color:white;
+  color:lightgrey;
 
   margin-top: 10rem;
   padding-block: 6rem;
 }
 
 footer h3 {margin-bottom:2rem;}
-
-footer li {
-  color: gray;
-  line-height: 1.8rem;
-}
-
+footer li {line-height: 1.8rem;}
+.footer-language {color:gray;}
 
 
 
