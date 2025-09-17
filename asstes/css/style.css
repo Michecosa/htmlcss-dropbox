@@ -99,23 +99,9 @@ nav .btn { padding-block: 0.6rem;}
 /* Input + Label */
 
 input[type="radio"] {
-  appearance: none;
-  width: 20px;
-  height: 20px;
+  accent-color: var(--blue-btn);
   margin-right: 0.5rem;
-
-  border: 1px solid lightgray;
-  border-radius: 50%;
-
-  background-color: white;
-  cursor: pointer;
 }
-
-input[type="radio"]:checked {
-  border: 1px solid var(--blue-btn);
-  background-color: var(--blue-btn);
-}
-
 
 /* Position */
 .below-h1-container {
