@@ -90,6 +90,14 @@ header nav { min-height: 3rem;}
   margin-bottom: 1rem;
 }
 
+.main-top-card {
+  margin-bottom: 3rem;
+}
+
+.main-top-card > * {
+  margin-bottom: 0.8rem;
+}
+
 
 
 
@@ -117,9 +125,11 @@ h2 {
   font-size: 4rem;
 }
 
-.fa-check {
-  color: var(--blue-btn);
-}
+.price {font-size: 0.8rem;}
+
+.user-timing {font-size: 0.8rem; color: gray;}
+
+.fa-check {color: var(--blue-btn);}
 
 
 
