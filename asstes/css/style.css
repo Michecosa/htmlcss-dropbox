@@ -20,7 +20,6 @@
 .align-items-fe {align-items: flex-end;}
 .gap {gap:2rem;}
 
-
 .container-1 {
   max-width: 80rem;
   width: 80%;
@@ -44,6 +43,10 @@ header { padding: 1rem;}
 
 /* Main */
 .main-top-area { background-color: #b4d0e6;}
+.top-area-text > div {margin-bottom: 1rem;}
+
+
+
 
 /* Text */
 h1 { 
