@@ -22,12 +22,12 @@
 
 .container-1 {
   max-width: 100rem;
-  width: 65%;
+  width: 60%;
   margin: 0 auto;
 }
 
 .container-2 {
-  width: 85%;
+  width: 75%;
   margin: 0 auto;
 }
 
@@ -70,9 +70,7 @@ h2 {
   padding-block: 6rem;
 }
 
-main * {line-height: 1.2rem;}
-main h1, main h2 {line-height: normal;}
-
+.top-area-paragraph {line-height: 1.2rem;}
 .top-area-text > div {
   font-size: 1rem;
   font-weight: 500;
