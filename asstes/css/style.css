@@ -179,6 +179,9 @@ main {
 footer {
   background-color: black;
   color:white;
+
+  margin-top: 10rem;
+  padding-block: 6rem;
 }
 
 
