@@ -66,6 +66,10 @@ a {
   color:var(--blue-btn)
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 /* Images */
 img { width: 100%;}
 .left-nav img { height: 1.5rem; width: auto; }
