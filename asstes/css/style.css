@@ -10,6 +10,8 @@
   --light-blue: #b4d0e6;
 }
 
+.bg-color-lb {background-color: var(--light-blue);}
+
 /* Utilities */
 
 .d-flex {display: flex;}
@@ -42,7 +44,6 @@ header { padding: 1rem;}
 
 
 /* Main */
-.main-top-area { background-color: #b4d0e6;}
 .top-area-text > div {margin-bottom: 1rem;}
 
 
