@@ -84,8 +84,7 @@ main {
 }
 
 
-/* Area cards */
-
+/* Cards area */
 .top-card {
   text-align: center;
   border-bottom: 1px solid lightgray
@@ -113,7 +112,6 @@ main {
 
 
 /* Team area */
-
 .d-team-area {
   text-align: center;
   
@@ -141,8 +139,7 @@ main {
 
 /* Partner area */
 
-
-
+.left-partner-dropbox {width: 70%;}
 
 
 
@@ -220,6 +217,13 @@ input[type="radio"] {
   margin-right: 0.5rem;
 }
 
+
+/* find-partner */
+
+.find-partner {
+  padding: 0.7rem;
+  border: 1px solid black;
+}
 
 
 
