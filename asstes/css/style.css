@@ -124,8 +124,16 @@ main {
   width:100%;
   border:1px solid lightgray;
 
-  padding-block:1rem;
+  padding-block:2rem;
   padding-inline: 1.5rem;
+}
+
+.left-d-team-area > * {
+  margin-bottom: 1rem;
+}
+
+.left-d-team-area > div {
+  margin-top:2.5rem;
 }
 
 .right-d-team-area {
