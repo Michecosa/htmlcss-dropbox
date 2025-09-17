@@ -27,7 +27,7 @@
 }
 
 .container-2 {
-  width: 80%;
+  width: 85%;
   margin: 0 auto;
 }
 
@@ -116,8 +116,9 @@ h2 {
 
 
 
-/* spam button */
+/* btn */
 .btn {
+  display: inline-block;
   background-color: var(--blue-btn);
   color: white;
   
