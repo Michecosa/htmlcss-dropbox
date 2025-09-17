@@ -163,6 +163,20 @@ main {
 
 
 
+
+
+/* Footer */
+
+footer {
+  background-color: black;
+  color:white;
+}
+
+
+
+
+
+
 /* Text */
 h1 { 
   font-size: 5rem; 
