@@ -252,9 +252,14 @@ nav .btn { padding-block: 0.6rem;}
 
 /* Input + Label */
 input[type="radio"] {
-  accent-color: var(--blue-btn);
+  /* accent-color: var(--blue-btn); */
   margin-right: 0.5rem;
+  display: none;
 }
+
+
+
+
 
 
 /* find-partner */
