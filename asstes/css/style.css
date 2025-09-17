@@ -30,15 +30,14 @@
 }
 
 /* Header */ 
-
-header {
-  padding: 1rem;
-}
-
+header { padding: 1rem;}
 
 
 /* Main */
+.main-top-area { background-color: #b4d0e6;}
+.top-area-text {width: 40%;}
+.top-area-text > * {margin-block: 2rem;}
 
-.main-top-area {
-  background-color: #b4d0e6;
-}
+
+/* Images */
+img { width: 100%;}
