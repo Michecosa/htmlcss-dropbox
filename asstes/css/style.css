@@ -14,8 +14,6 @@
 
 .d-flex {display: flex;}
 .justify-content-sb {justify-content: space-between;}
-.justify-content-c {justify-content: center;}
-.align-items-sb {align-items: space-between;}
 .align-items-c {align-items: center;}
 .gap {gap:3rem;}
 .gap-small {gap:0.6rem;}
@@ -35,9 +33,10 @@
 
 .col-3 {
   width:calc(100% /3);
-  border: 1px solid lightgray;
   height: auto;
 }
+
+.cards .col-3 {  border: 1px solid lightgray;}
 
 .col-3 > * {
   padding-block: 0.5rem;
@@ -143,7 +142,6 @@ main {
 /* Partner area */
 
 
-.left-partner-dropbox {width: 60%;}
 
 
 
