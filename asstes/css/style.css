@@ -45,6 +45,9 @@ header { padding: 1rem;}
 /* Main */
 .main-top-area { background-color: #b4d0e6;}
 
-
 /* Text */
-h1 { font-size: 7rem;}
+h1 { 
+  font-size: 5rem; 
+  font-weight: 800;
+  padding-block: 5rem;
+}
