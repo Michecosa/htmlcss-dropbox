@@ -128,23 +128,13 @@ main {
   padding-inline: 1.5rem;
 }
 
-.left-d-team-area > * {
-  margin-bottom: 1rem;
-}
+.left-d-team-area > * {margin-bottom: 1rem;}
+.left-d-team-area > div {margin-top:2.5rem;}
 
-.left-d-team-area > div {
-  margin-top:2.5rem;
-}
-
-.right-d-team-area {
-  width: 35%;
-}
+.right-d-team-area {width: 35%;}
 
 
-.left-partner-dropbox {
-  width: 60%;
-}
-
+.left-partner-dropbox {width: 60%;}
 
 
 /* Text */
