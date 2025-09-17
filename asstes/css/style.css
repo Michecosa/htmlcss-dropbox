@@ -38,10 +38,14 @@
 }
 
 .col-3 > * {
-  padding: 0.5rem;
+  padding-block: 0.5rem;
+  padding-inline: 1rem;
 }
 
-
+.border-small {
+  width:30%;
+  border-bottom: 1px solid lightgrey;
+}
 
 
 
@@ -75,6 +79,9 @@ header nav { min-height: 5rem;}
   border-bottom: 1px solid lightgray
 }
 
+.main-card {
+  padding: 2rem;
+}
 
 
 
