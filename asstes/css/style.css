@@ -48,11 +48,6 @@
   width: auto;
 }
 
-.col-5 {
-  width: calc(100% / 5);
-  height: auto;
-}
-
 
 .border-small {
   width:30%;
