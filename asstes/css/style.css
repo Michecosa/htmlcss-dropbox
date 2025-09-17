@@ -14,7 +14,9 @@
 .d-flex {display: flex;}
 .justify-content-sb {justify-content: space-between;}
 .justify-content-c {justify-content: center;}
+.align-items-sb {align-items: space-between;}
 .align-items-c {align-items: center;}
+.align-items-fe {align-items: flex-end;}
 .gap {gap:2rem;}
 
 
@@ -29,15 +31,19 @@
   margin: 0 auto;
 }
 
+
+/* Images */
+img { width: 100%;}
+.left-nav img { height: 2rem; width: auto; }
+
+
 /* Header */ 
 header { padding: 1rem;}
 
 
 /* Main */
 .main-top-area { background-color: #b4d0e6;}
-.top-area-text {width: 40%;}
-.top-area-text > * {margin-block: 2rem;}
 
 
-/* Images */
-img { width: 100%;}
+/* Text */
+h1 { font-size: 7rem;}
