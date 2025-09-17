@@ -19,6 +19,7 @@
 .align-items-c {align-items: center;}
 .align-items-fe {align-items: flex-end;}
 .gap {gap:2rem;}
+.flex-wrap {flex-wrap: wrap;}
 
 .container-1 {
   max-width: 80rem;
