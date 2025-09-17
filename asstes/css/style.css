@@ -152,9 +152,8 @@ main {
 
 /* Operations */
 
-.operations-area-container h2 {
-  margin-bottom:2rem;
-}
+.operations-area-container h2 {margin-bottom:2rem;}
+.operations-area-container .row-2 {margin-bottom:1rem;}
 
 
 
