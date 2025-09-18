@@ -91,6 +91,15 @@ header {
 
 
 
+header nav span {
+  display: flex;
+  align-self: center;
+  height: 100%;
+}
+
+header nav a:hover {
+  border-bottom: 1px solid black;
+}
 
 
 /* Main */
