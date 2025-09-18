@@ -77,14 +77,11 @@ img { width: 100%;}
 
 /* Header */ 
 header { 
-  padding: 1rem; 
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.164);
 }
 
-header nav { min-height: 3rem;}
-header nav a {height: 100%;}
-
+header { min-height: 5rem; }
 
 /* Main */
 main {
