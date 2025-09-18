@@ -139,7 +139,7 @@ main {margin-bottom:2rem;}
 
 
 
-.main-content-area {margin-top: 15rem;}
+.main-content-area {margin-top: 10rem;}
 
 .input-container {
   margin-bottom:2rem;
@@ -254,9 +254,7 @@ h2 {
 
 .fa-arrow-down:hover {color:var(--blue-btn);}
 
-.cards h3 {
-  font-size:1.4rem;
-}
+.cards h3 {font-size:1.4rem;}
 
 .price {font-size: 0.8rem;}
 .user-timing {font-size: 0.8rem; color: gray;}
