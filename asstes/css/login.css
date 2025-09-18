@@ -41,9 +41,13 @@ body {min-width:80rem;}
 
 .input-wrapper > * {
   display: block;
+  margin-bottom:0.75rem;
 }
 
-
+.input-wrapper input {
+  padding:1rem;
+  font-size: 1.1rem;
+}
 
 
 
