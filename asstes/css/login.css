@@ -5,6 +5,8 @@ body {min-width:80rem;}
 .w-30 {width:30%;}
 
 
+
+
 /* Body */
 
 .img-wrap {width: 6%;}
@@ -15,6 +17,23 @@ body {min-width:80rem;}
   margin: 0 auto;
   padding: 2rem;
 }
+
+
+/* or-wrapper */
+
+
+.or-wrapper::before,
+.or-wrapper::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid lightgray;
+  margin: 0 0.75rem;
+}
+
+
+
+
+
 
 
 /* Buttons */
