@@ -28,7 +28,7 @@ button {
 
 .button-wrap:hover {
   cursor: pointer;
-  background-color: lightgray;
+  background-color:rgb(232, 236, 239);
 }
 
 .button-wrap * {
