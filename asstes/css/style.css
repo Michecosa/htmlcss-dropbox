@@ -87,15 +87,17 @@ img { width: 100%;}
 header { 
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.164);
+  height: 5rem;
 }
 
+header nav {height: 100%;}
 
-
-header nav span {
+header nav a {
   display: flex;
-  align-self: center;
+  align-items: center;
   height: 100%;
 }
+
 
 header nav a:hover {
   border-bottom: 1px solid black;
