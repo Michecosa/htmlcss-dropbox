@@ -12,6 +12,9 @@
 
 body { min-width: 100rem; }
 
+
+
+
 /* Utilities */
 
 .d-flex {display: flex;}
@@ -122,6 +125,11 @@ header nav a {
 header nav a:not(.logo, .btn):hover {
   border-bottom: 1px solid black;
 }
+
+
+
+
+
 
 
 /* Main */
@@ -344,7 +352,7 @@ header {
 .top-area-image img {
   position: absolute;
   bottom: -20%;
-
+  object-fit: contain;
   
   height: 120%;
   width: auto;
