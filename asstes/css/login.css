@@ -6,3 +6,7 @@ button {
 .button-wrap {
   border: 1px solid black;
 }
+
+.button-wrap img {
+  width: 4%;
+}
