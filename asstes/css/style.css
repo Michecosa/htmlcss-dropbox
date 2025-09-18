@@ -62,13 +62,13 @@ footer .border-small {width:10%;}
 .no-text-decoration {text-decoration: none; color:inherit}
 
 
-/* anchor tag */
-a {color:var(--blue-btn)}
-a:hover {cursor: pointer;}
 
-nav a:hover {
-  border-bottom: 1px solid black;
-}
+
+
+
+/* anchor tag */
+a { color:var(--blue-btn);}
+a:hover {cursor: pointer;}
 
 
 
@@ -79,11 +79,19 @@ img { width: 100%;}
 .left-nav img { height: 1.5rem; width: auto; }
 .top-area-image img { width:70%;}
 
+
+
+
+
 /* Header */ 
 header { 
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.164);
 }
+
+
+
+
 
 /* Main */
 main {
@@ -231,7 +239,6 @@ h2 {
   padding-inline: 1rem;
 }
 
-.btn:hover {background-color: #3f89ff;}
 
 .btn:hover,
 .find-partner:hover {
@@ -250,6 +257,7 @@ nav .btn { padding-block: 0.6rem;}
   width: 100%;
 }
 
+.btn:hover {background-color: #3f89ff;}
 
 /* Input + Label */
 input[type="radio"] {
