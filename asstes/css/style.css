@@ -10,6 +10,8 @@
   --light-blue: #b4d0e6;
 }
 
+body { min-width: 80rem; }
+
 /* Utilities */
 
 .d-flex {display: flex;}
