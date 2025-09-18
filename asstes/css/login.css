@@ -1,9 +1,6 @@
 body {min-width: 75rem;}
 
 /* Utilities */
-.w-40 {width:40%;}
-
-
 
 
 /* Body */
@@ -14,7 +11,6 @@ body {min-width: 75rem;}
 
 .login-wrapper {
   max-width: 40rem;
-
   padding: 2rem;
 }
 
