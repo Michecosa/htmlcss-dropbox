@@ -83,7 +83,7 @@ header {
 }
 
 header nav { min-height: 3rem;}
-
+header nav a {height: 100%;}
 
 
 /* Main */
