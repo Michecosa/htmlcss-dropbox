@@ -29,3 +29,7 @@ button {
 .button-wrap:hover {
   cursor: pointer;
 }
+
+.button-wrap * {
+  cursor:inherit;
+}
