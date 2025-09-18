@@ -53,6 +53,7 @@ body { min-width: 80rem; }
 }
 
 
+
 .border-small {
   width:30%;
   border-bottom: 2px solid lightgrey;
@@ -185,7 +186,6 @@ main {
 /* Operations */
 
 .operations-area-container h3 {margin-bottom:1rem;}
-
 
 /* Main ending */
 
