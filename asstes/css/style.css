@@ -345,7 +345,11 @@ header {
 
 .top-area-image img {
   position: absolute;
+  bottom: -20%;
+  object-fit: contain;
+  
   height: 120%;
   width: auto;
-  bottom: -20%;
+
+  max-width: 100%;
 }
