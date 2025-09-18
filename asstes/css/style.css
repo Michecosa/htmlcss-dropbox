@@ -232,6 +232,8 @@ h2 {
   padding-inline: 1rem;
 }
 
+.btn:hover {background-color: #3f89ff;}
+
 .btn:hover,
 .find-partner:hover {
   cursor:pointer;
@@ -269,10 +271,14 @@ input[type="radio"]:hover {
   display: inline-block;
   padding: 0.7rem;
   border: 1px solid black;
-
+  
   margin-top: 1rem;
 }
 
+.find-partner:hover {
+  color: rgb(173, 173, 173);
+  border: 1px solid rgb(173, 173, 173);
+}
 
 
 
