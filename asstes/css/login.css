@@ -49,6 +49,10 @@ body {min-width:80rem;}
   font-size: 1.1rem;
 }
 
+/* continue-wrapper */
+
+.continue-wrapper .btn {width: 100%;}
+
 
 
 
@@ -84,10 +88,6 @@ button {
 
 /* Text */
 
-.login-wrapper h2 {
-  text-align: center;
-}
-
-.button-wrap button {
-  font-size: 1.1rem;
-}
+.login-wrapper h2 {text-align: center;}
+.button-wrap button {font-size: 1.1rem;}
+.continue-wrapper .btn {text-align: center; font-size: 1.1rem;}
