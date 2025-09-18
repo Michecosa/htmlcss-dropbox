@@ -139,8 +139,6 @@ main {margin-bottom:2rem;}
 
 
 
-
-
 .main-content-area {margin-top: 15rem;}
 
 .input-container {
@@ -345,8 +343,9 @@ header {
   background-color: var(--light-blue);
 }
 
-.top-area-image {
+.top-area-image img {
   position: absolute;
-  top: 0;
-  left:30%;
+  height: 120%;
+  width: auto;
+  bottom: -20%;
 }
