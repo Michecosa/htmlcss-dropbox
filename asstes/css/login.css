@@ -28,8 +28,10 @@ button {
 
 .button-wrap:hover {
   cursor: pointer;
+  background-color: lightgray;
 }
 
 .button-wrap * {
   cursor:inherit;
+  background-color: inherit;
 }
