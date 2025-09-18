@@ -1,8 +1,13 @@
 body {min-width:80rem;}
 
-.img-wrap {width: 4%;}
 
+/* Utilities */
 .w-30 {width:30%;}
+
+
+/* Body */
+
+.img-wrap {width: 6%;}
 
 .login-wrapper {
   width: 100%;
@@ -28,10 +33,24 @@ button {
 
 .button-wrap:hover {
   cursor: pointer;
-  background-color:rgb(232, 236, 239);
+  background-color:rgb(245, 245, 245);
+  border: 1px solid aliceblue;
 }
 
 .button-wrap * {
   cursor:inherit;
   background-color: inherit;
+}
+
+
+
+
+/* Text */
+
+.login-wrapper h2 {
+  text-align: center;
+}
+
+.button-wrap button {
+  font-size: 1.1rem;
 }
