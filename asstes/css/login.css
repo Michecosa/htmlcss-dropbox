@@ -9,4 +9,11 @@ button {
 .button-wrap {border: 1px solid black;}
 .img-wrap {width: 4%;}
 
-.w-40 {width:40%;}
+.w-30 {width:30%;}
+
+.login-wrapper {
+  width: 100%;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
