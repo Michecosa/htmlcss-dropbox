@@ -63,13 +63,16 @@ footer .border-small {width:10%;}
 
 
 /* anchor tag */
-a {
-  color:var(--blue-btn)
+a {color:var(--blue-btn)}
+a:hover {cursor: pointer;}
+
+nav a:hover {
+  border-bottom: 1px solid black;
 }
 
-a:hover {
-  cursor: pointer;
-}
+
+
+
 
 /* Images */
 img { width: 100%;}
