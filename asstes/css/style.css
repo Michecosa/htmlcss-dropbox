@@ -122,6 +122,8 @@ main {
 .top-area-text > div {margin-bottom: 2.5rem;}
 .top-area-text > div:last-child {margin-bottom: 1.3rem;}
 
+.top-area-image img { width: 120%; }
+
 .main-content-area {margin-top: 15rem;}
 
 .input-container {
@@ -323,8 +325,7 @@ header {
 }
 
 .top-area-image {
-  text-align: right;
-
   position: absolute;
   top: 0;
+  left:30%;
 }
