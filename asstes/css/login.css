@@ -1,12 +1,11 @@
+body {min-width:50rem;}
+
 button {
   border: 0;
   background-color: white;
 }
 
-.button-wrap {
-  border: 1px solid black;
-}
+.button-wrap {border: 1px solid black;}
+.button-wrap img {width: 4%;}
 
-.button-wrap img {
-  width: 4%;
-}
+.w-40 {width:40%;}
