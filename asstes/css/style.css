@@ -239,6 +239,8 @@ h2 {
   padding-bottom: 1rem;
 }
 
+.fa-arrow-down:hover {color:var(--blue-btn);}
+
 .cards h3 {
   font-size:1.4rem;
 }
