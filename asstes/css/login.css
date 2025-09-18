@@ -9,6 +9,13 @@ body {min-width:80rem;}
 
 /* Body */
 
+.login-wrapper > div {
+  margin-bottom: 2.5rem;
+}
+
+
+/* buttons-wrapper */
+
 .img-wrap {width: 6%;}
 
 .login-wrapper {
@@ -20,7 +27,6 @@ body {min-width:80rem;}
 
 
 /* or-wrapper */
-
 
 .or-wrapper::before,
 .or-wrapper::after {
