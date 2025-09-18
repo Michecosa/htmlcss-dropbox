@@ -60,6 +60,12 @@ body { min-width: 80rem; }
   flex-basis: 30%;
 }
 
+.flex-0-0-70percnt {
+  flex-grow: 0; 
+  flex-shrink: 0;
+  flex-basis: 70%;
+}
+
 
 .border-small {
   width:30%;
