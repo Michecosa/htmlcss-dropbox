@@ -1,8 +1,7 @@
-body {min-width:80rem;}
-
+body {min-width: 75rem;}
 
 /* Utilities */
-.w-30 {width:30%;}
+.w-40 {width:40%;}
 
 
 
@@ -13,17 +12,19 @@ body {min-width:80rem;}
   margin-bottom: 2.5rem;
 }
 
+.login-wrapper {
+  max-width: 40rem;
+
+  padding: 2rem;
+}
+
+
 
 /* buttons-wrapper */
 
 .img-wrap {width: 6%;}
 
-.login-wrapper {
-  width: 100%;
-  max-width: 40rem;
-  margin: 0 auto;
-  padding: 2rem;
-}
+
 
 
 /* or-wrapper */
