@@ -111,7 +111,7 @@ header nav a {
 }
 
 
-header nav a:not(.logo):hover {
+header nav a:not(.logo, .btn):hover {
   border-bottom: 1px solid black;
 }
 
