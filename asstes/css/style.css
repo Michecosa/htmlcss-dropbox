@@ -90,7 +90,10 @@ header {
   height: 5rem;
 }
 
-header nav {height: 100%;}
+header nav {
+  height: 100%;
+  padding-inline: 1rem;
+}
 
 header nav a {
   display: flex;
